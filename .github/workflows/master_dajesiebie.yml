@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'dajesiebie'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2a7925747c85432794fe113d04f420af }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8d20510afbb6441c93f9c6c7c9cd9b99 }}
         package: ./published/
